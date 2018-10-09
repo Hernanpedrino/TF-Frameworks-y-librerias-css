@@ -1,0 +1,13 @@
+/*estilos del body*/
+.blog-body{
+  background-color: #F1FCAA;
+}
+/*estilos del navbar*/
+header{
+  background-color: white;
+  min-height: 150px;
+}
+.logo{
+  height: 120px;
+  width: 120px;
+}
