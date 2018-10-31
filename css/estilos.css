@@ -8,17 +8,18 @@
 .encabezado{
   background-color: white;
   min-height: 150px;
+  border-bottom-style: groove;
 }
 .logo{
   height: 120px;
   width: 120px;
-  margin-bottom: 60px;
-  margin-left: 40px;
-  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 60px;
+  margin-top: 20px;
 }
 .redes{
-  margin-right: 10px;
-  margin-top: 60px;
+  margin-top: 100px;
+  float: right;
 }
 li{
   display: inline;
@@ -31,6 +32,7 @@ li{
 .menu-enlaces{
   padding: 5px;
   margin-right: 50px;
+  margin-top: 10px;
 }
 .btn{
   width: 190px;
