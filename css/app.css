@@ -1,12 +1,5 @@
-*{
-  background: url(../Imagenes/cocina.jpeg)
-}
-body{
-  width: 80%;
-}
-header{
-  background-color: #AAEBFC;
-}
-.encabezado{
-  border: solid black;
+.blog-body{
+  background: url(../Imagenes/cocina.jpeg);
+  width: 100%;
+  height: 100%;
 }
