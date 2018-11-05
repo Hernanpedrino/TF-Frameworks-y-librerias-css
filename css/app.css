@@ -1,0 +1,12 @@
+*{
+  background: url(../Imagenes/cocina.jpeg)
+}
+body{
+  width: 80%;
+}
+header{
+  background-color: #AAEBFC;
+}
+.encabezado{
+  border: solid black;
+}
