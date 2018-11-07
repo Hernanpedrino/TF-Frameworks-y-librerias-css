@@ -18,7 +18,7 @@
 }
 .superior{
   min-height: 500px;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
   margin-top: 5px;
 }
 .inferior{
@@ -28,10 +28,10 @@
 .izq{
   background-color: rgb(107, 102, 176);
   border-radius: 3px;
-
+  margin: 5px;
 }
 .der{
     background-color: rgb(107, 102, 176);
     border-radius: 3px;
-    
+    margin: 5px;
 }
