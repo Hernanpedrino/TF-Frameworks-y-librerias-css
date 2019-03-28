@@ -10,23 +10,17 @@
   padding-left: 15px;
   width: 80%;
 }
-.container{
+.row{
   background-color: rgba(170, 235, 252, 0.8);
   width: 80%;
-}
-.superior{
-  min-height: 500px;
-  margin-top: 5px;
-}
-.inferior{
-  min-height: 500px;
-  margin-bottom: 10px;
 }
 .izq{
   background-color: rgb(107, 102, 176);
   border-radius: 3px;
+  width: 20%;
 }
 .der{
     background-color: rgb(107, 102, 176);
     border-radius: 3px;
+    width: 80%;
 }
