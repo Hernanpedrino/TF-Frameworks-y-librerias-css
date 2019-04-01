@@ -15,14 +15,11 @@
   width: 80%;
   margin-top: 5px;
 }
-.izq{
-  background-color: rgb(107, 102, 176);
-  border-radius: 3px;
-}
 .pastel{
   height: 250px;
   width: 100%;
   text-align: center;
+  background-color: rgb(107, 102, 176);
 }
 .ppapas{
   height: 80%;
@@ -33,4 +30,5 @@
 .der{
   background-color: rgb(107, 102, 176);
   border-radius: 3px;
+  text-align: center;
 }
