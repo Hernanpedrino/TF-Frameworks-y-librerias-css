@@ -1,7 +1,12 @@
+body{
+background-image: url('../Imagenes/campo.jpg');
+background-size: cover;
+background-attachment: fixed;
+background-position: center top;
+}
 .encabezado{
   height: 150px;
 }
-.paisaje1{
-  margin-top: -50px;
-  margin-left: 60px;
+.paisaje{
+  margin-top: -35px;
 }
