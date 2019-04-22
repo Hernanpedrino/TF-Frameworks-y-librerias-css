@@ -16,3 +16,15 @@ background-position: center top;
 .collection{
   border: none;
 }
+.izq{
+  width: 90%;
+  height: 300px;
+}
+.centro{
+  width: 90%;
+  height: 550px;
+}
+.der{
+  width: 90%;
+  height: 300px;
+}
