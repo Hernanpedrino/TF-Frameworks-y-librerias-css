@@ -16,6 +16,10 @@ background-position: center top;
 .collection{
   border: none;
 }
+.redes-sociales{
+  height: 55px;
+  width: 55px;
+}
 .izq{
   width: 90%;
   height: 300px;
